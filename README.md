@@ -1,5 +1,5 @@
 # Financial Complaints KPI Dashboard
-This dashboard presents an overview of the complaints received by a financial company from 1-12-2011 to 13-10-2020 in the US. It is aimed to help stakeholders gain insights into the major issues and to make data-driven decisions by visualizing distribution of cmplaints on an issue-level, media-level and product-level.
+This dashboard presents an overview of the complaints received by a financial company from 1-12-2011 to 13-10-2020 in the US. It is aimed to help stakeholders gain insights into the major issues and to make data-driven decisions by visualizing distribution of complaints on an issue-level, media-level and product-level.
 
 It aims to:
 
